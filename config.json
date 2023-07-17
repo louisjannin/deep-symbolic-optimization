@@ -1,0 +1,6 @@
+{
+    "task" : {
+      "task_type" : "regression",
+      "dataset" : "data/dataset.csv"
+    }
+  }
